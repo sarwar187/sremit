@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ed_Markey', 'Federal_Communications_Commission'}
+Entities missing: {'California_State_Legislature', 'Fax'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

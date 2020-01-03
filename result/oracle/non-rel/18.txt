@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 308 Query: implant dentistry ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Entities missing: {'Harvard_School_of_Dental_Medicine', 'UCLA_School_of_Dentistry'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

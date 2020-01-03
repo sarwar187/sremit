@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'Benelux'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

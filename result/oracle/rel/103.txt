@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Herald_of_Free_Enterprise'}
+Entities missing: {'MS_Estonia', 'Estline'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

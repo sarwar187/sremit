@@ -1,0 +1,4116 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'International_Maritime_Organization', 'MS_Herald_of_Free_Enterprise'}
+Entities missing: {'Baltic_Sea', 'MS_Estonia'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Herald_of_Free_Enterprise'}
+Entities missing: {'MS_Estonia', 'Estline'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Herald_of_Free_Enterprise'}
+Entities missing: {'MS_Estonia', 'Estline'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'@UK', 'International_Maritime_Organization'}
+Entities missing: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'Estline', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+Entities missing: {'Silja_Line', 'International_Maritime_Organization'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'International_Maritime_Organization'}
+Entities missing: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'Estline', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'Estline', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'March_of_Dimes', 'Jonas_Salk'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'Silja_Line', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'International_Maritime_Organization'}
+Entities missing: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'Estline', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'Silja_Line'}
+Entities missing: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+Entities missing: {'Silja_Line', 'Estline'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'Silja_Line'}
+Entities missing: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baltic_Sea', 'International_Maritime_Organization'}
+Entities missing: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 326 Query: ferry sinkings ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Estonia', 'Stockholm'}
+Entities missing: {'MS_Estonia', 'MS_Herald_of_Free_Enterprise'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 348 Query: agoraphobia ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Charles_M._Schulz', 'Charlie_Brown'}
+Entities missing: {'Great_Expectations', 'Miss_Havisham'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 348 Query: agoraphobia ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'France', 'Beacon,_New_York'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 308 Query: implant dentistry ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'@UK', 'Colin_Humphreys'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 348 Query: agoraphobia ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Great_Expectations', 'Miss_Havisham'}
+Entities missing: {'Charles_M._Schulz', 'Charlie_Brown'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 348 Query: agoraphobia ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'San_Fernando_Valley', 'Harbor–UCLA_Medical_Center'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 348 Query: agoraphobia ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'HMS_Vanguard', 'HMS_Vanguard_(1787)'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'Carlos_Menem'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Falkland_Islands_sovereignty_dispute'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'British_Geological_Survey'}
+Entities missing: {'YPF', 'Falkland_Islands_sovereignty_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 308 Query: implant dentistry ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Commissioner_of_Food_and_Drugs', 'Dentistry'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'British_Geological_Survey'}
+Entities missing: {'YPF', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'YPF'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'YPF'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'YPF'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Entities missing: {'YPF', 'British_Geological_Survey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 351 Query: falkland petroleum exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'British_Geological_Survey'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Roald_Amundsen', 'Amundsen–Scott_South_Pole_Station'}
+Entities missing: {'United_States_Antarctic_Program', 'History_of_Antarctica'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 308 Query: implant dentistry ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Food_and_Drug_Administration', 'Dentistry'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Antarctic_Peninsula'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Territorial_claims_in_Antarctica'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Antarctic_Peninsula'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctic_Treaty_System', 'Antarctica'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctic_Treaty_System', 'Antarctica'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Hydrometeorological_Centre_of_Russia'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Chile', 'Antarctica'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Australia'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Greenpeace'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Colonization_of_Antarctica'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 353 Query: antarctica exploration ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Antarctica', 'Convention_for_the_Conservation_of_Antarctic_Marine_Living_Resources'}
+Entities missing: {'Roald_Amundsen', 'United_States_Antarctic_Program'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Aegean_dispute', 'Aegean_Islands'}
+Entities missing: {'Kuril_Islands_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Aegean_dispute', 'United_Nations_Convention_on_the_Law_of_the_Sea'}
+Entities missing: {'Kuril_Islands_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+Entities missing: {'Kuril_Islands_dispute', 'Kuril_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Aegean_dispute', 'Aegean_Islands'}
+Entities missing: {'Kuril_Islands_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Aegean_dispute', 'Aegean_Islands'}
+Entities missing: {'Kuril_Islands_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Aegean_dispute', 'Aegean_Sea'}
+Entities missing: {'Kuril_Islands_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Albanian_Naval_Defense_Forces', 'Albania'}
+Entities missing: {'Kuril_Islands_dispute', 'Aegean_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Greece', 'Albania'}
+Entities missing: {'Kuril_Islands_dispute', 'Aegean_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Kuril_Islands_dispute', 'Kuril_Islands'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Turkey', 'Greece'}
+Entities missing: {'Kuril_Islands_dispute', 'Aegean_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Spratly_Islands_dispute', 'South_China_Sea_Islands'}
+Entities missing: {'Kuril_Islands_dispute', 'Aegean_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Japan–Russia_relations', 'Japan'}
+Entities missing: {'Kuril_Islands_dispute', 'Aegean_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Kuril_Islands_dispute', 'Japan–Russia_relations'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Kuril_Islands_dispute', 'Kuril_Islands'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Russia', 'Greece'}
+Entities missing: {'Kuril_Islands_dispute', 'Aegean_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 357 Query: territorial waters dispute ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Kuril_Islands_dispute', 'Kuril_Islands'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Agriculture'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Baja_California'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California', 'El_Niño-Southern_Oscillation'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'La_Niña', 'El_Niño-Southern_Oscillation'}
+Entities missing: {'Pacific_Rim', 'Pacific_Ocean'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 365 Query: el nino ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'El_Niño-Southern_Oscillation', 'San_Diego'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'In_vitro_fertilisation', 'Fertility_clinic'}
+Entities missing: {'Baby_M', 'Surrogacy'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'John_Robertson', 'American_Society_for_Reproductive_Medicine'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baby_M', 'Surrogacy'}
+Entities missing: {'In_vitro_fertilisation', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Anna_Johnson'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Arthur_Caplan', 'Bill_Handel'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Baby_M', 'Surrogacy'}
+Entities missing: {'In_vitro_fertilisation', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Superior_Courts_of_California', 'Anna_Johnson_Gates'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Anna_Johnson_Pell_Wheeler', 'June'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Florida', 'Circuit_judge_(UK)'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'In_vitro_fertilisation', 'The_New_England_Journal_of_Medicine'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'National_University_Hospital', 'In_vitro_fertilisation'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Reproductive_medicine', 'June'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Pulitzer,_Inc.', 'Morris,_Alabama'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Poliomyelitis', 'Union_of_South_Africa'}
+Entities missing: {'March_of_Dimes', 'Polio_vaccine'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Orange_County,_New_York', 'Orange_County,_California'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Stowe,_Vermont'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 368 Query: in vitro fertilization ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Superior_Courts_of_California', 'The_Times'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Amazon_Surveillance_System'}
+Entities missing: {'Chico_Mendes', 'Andrew_Revkin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Chico_Mendes', 'Amazon_Basin'}
+Entities missing: {'Amazon_rainforest', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Xapuri', 'Chico_Mendes'}
+Entities missing: {'Amazon_rainforest', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Agroforestry'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Amazon_Basin'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Deforestation_of_the_Amazon_Rainforest'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_Basin', 'Amazon_River'}
+Entities missing: {'Amazon_rainforest', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Andrew_Revkin'}
+Entities missing: {'Deforestation_of_the_Amazon_Rainforest', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Chico_Mendes', 'Andrew_Revkin'}
+Entities missing: {'Amazon_rainforest', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Chico_Mendes', 'Amazon_Basin'}
+Entities missing: {'Amazon_rainforest', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Amazon_Basin'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 400 Query: amazon rain forest ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Andrew_Revkin', 'Amazon_Surveillance_System'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Nutrition', 'Dietary_Reference_Intake'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Americans', 'Asian_people'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Americans', 'University_of_Texas_Southwestern_Medical_Center'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Americans', 'Dawson,_Illinois'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Estrogen', 'Anne_Smith'}
+Entities missing: {'Hormone_replacement_therapy_(menopause)', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Asian_people', 'Calcium,_New_York'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Dietary_Reference_Intake', 'Reference_Daily_Intake'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Dietary_Reference_Intake', 'Reference_Daily_Intake'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Dietary_Reference_Intake', 'Calcium_in_biology'}
+Entities missing: {'Estrogen', 'Hormone_replacement_therapy_(menopause)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ciba_Specialty_Chemicals', 'Hormone_replacement_therapy_(menopause)'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Department_of_Health_and_Human_Services', 'Drain,_Oregon'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Opel_Astra', 'Federal_Bureau_of_Investigation'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ronald_Reagan_UCLA_Medical_Center', 'Food_and_Drug_Administration'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'New_England', 'Food_and_Drug_Administration'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'National_Institutes_of_Health', 'National_Institute_of_Arthritis_and_Musculoskeletal_and_Skin_Diseases'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 403 Query: osteoporosis ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Low-density_lipoprotein'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'France', 'Benelux'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'European_Parliament', 'Benelux'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'Denmark'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'European_Parliament', 'France'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Benelux', 'Denmark'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'European_Union'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Benelux', 'Denmark'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'European_Union'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'European_Parliament', 'Denmark'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'European_Union'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'Benelux'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'Benelux'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Benelux', 'Denmark'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'European_Union'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'Benelux'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Visa_policy_in_the_European_Union', 'Benelux'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Benelux', 'European_Commission'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Benelux', 'Denmark'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 410 Query: schengen agreement ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Schengen_Agreement', 'Schengen_Area'}
+Entities missing: {'Benelux', 'Denmark'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Chechnya', 'Xerox'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Lu_(state)', 'Anhui'}
+Entities missing: {'California_State_University,_Long_Beach', 'Counterfeit'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Secret_Service', 'Irvine,_California'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Secret_Service', 'California_State_University,_Long_Beach'}
+Entities missing: {'Counterfeit', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Secret_Service', 'California_State_University,_Long_Beach'}
+Entities missing: {'Counterfeit', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Canton_of_Schwyz', 'Counterfeit'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Colombia', 'Federal_Police_(Brazil)'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'General_Motors_Europe', 'Volkswagen_Group'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Secret_Service', 'Counterfeit'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Fridays'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Middle_East', 'United_States_Department_of_the_Treasury'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Secret_Service', 'Middle_East'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Secret_Service', "Los_Angeles_County_Sheriff's_Department"}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Middle_East', 'Xerox'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ministry_of_Internal_Affairs_(Russia)', 'Moscow'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ministry_of_Internal_Affairs_(Russia)', 'Sverdlovsk_Oblast'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Secret_Service', 'The_Secret_Service'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 425 Query: counterfeiting money ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Zhang_Yuan'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Volkswagen_Group'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 430 Query: killer bee attacks ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Brazil', 'Africa'}
+Entities missing: {'Africanized_bee', 'Agriculture'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 430 Query: killer bee attacks ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Africa', 'Africanized_bee'}
+Entities missing: {'Brownsville,_Texas', 'Agriculture'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 430 Query: killer bee attacks ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Brazil', 'California'}
+Entities missing: {'Africa', 'Africanized_bee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 430 Query: killer bee attacks ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Mexico'}
+Entities missing: {'Africa', 'Africanized_bee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 430 Query: killer bee attacks ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Mexico', 'San_Diego'}
+Entities missing: {'Africa', 'Africanized_bee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 430 Query: killer bee attacks ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Mexico'}
+Entities missing: {'Africa', 'Africanized_bee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'International_Society_of_Blood_Transfusion', 'Lyme_disease'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Occupational_Safety_and_Health_Act', 'AIDES'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Medical_research', 'Germany'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Lyme_disease', 'Medical_research'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Lyme_disease', 'Allen_Steere'}
+Entities missing: {'Ixodes_ricinus', 'Centers_for_Disease_Control_and_Prevention'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ixodes_ricinus', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Centers_for_Disease_Control_and_Prevention'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ixodes_ricinus', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Crimea'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California', 'Lyme_disease'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Lyme_disease', 'China'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Lyme,_Connecticut', 'Lyme,_New_York'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 441 Query: lyme disease ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Lyme,_Connecticut', 'Lyme_disease'}
+Entities missing: {'Ixodes_ricinus', 'Allen_Steere'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Toshiba', 'Alstom'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Elf_Aquitaine', 'Biodegradation'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+Entities missing: {'Computational_physics', 'Euler_equations_(fluid_dynamics)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Environmental_Protection_Agency', 'Cage_Fighting_Championship'}
+Entities missing: {'Supercritical_fluid', 'Euler_equations_(fluid_dynamics)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Supercritical_fluid', 'Cage_Fighting_Championship'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Euler_equations_(fluid_dynamics)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Supercritical_fluid', 'Cage_Fighting_Championship'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Euler_equations_(fluid_dynamics)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Toshiba', 'China'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Department_of_Energy', 'Department_of_Energy'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Karlsruhe_Institute_of_Technology', 'Massachusetts_Institute_of_Technology'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Policy_Planning_Staff', 'United_States_Environmental_Protection_Agency'}
+Entities missing: {'Supercritical_fluid', 'Euler_equations_(fluid_dynamics)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Text'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'University_of_St_Andrews'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Worcester'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Federal_Bureau_of_Investigation'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'March_of_Dimes', 'Jonas_Salk'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Worcester'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Hussein_of_Jordan', 'Yitzhak_Rabin'}
+Entities missing: {'History_of_Israel', 'Israel–Jordan_Treaty_of_Peace'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+Entities missing: {'Palestine_Liberation_Organization', 'West_Bank'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Hussein_of_Jordan'}
+Entities missing: {'Arab–Israeli_conflict', 'Yitzhak_Rabin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+Entities missing: {'Palestine_Liberation_Organization', 'Palestinian_people'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+Entities missing: {'Arab–Israeli_conflict', 'West_Bank'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Hussein_of_Jordan', 'Yitzhak_Rabin'}
+Entities missing: {'Israel–Jordan_relations', 'Israel–Jordan_Treaty_of_Peace'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Hussein_of_Jordan'}
+Entities missing: {'Arab–Israeli_conflict', 'Yitzhak_Rabin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Hussein_of_Jordan', 'Yitzhak_Rabin'}
+Entities missing: {'Israel–Jordan_relations', 'Israel–Jordan_Treaty_of_Peace'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+Entities missing: {'West_Bank', 'Amman'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Amman'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Yitzhak_Rabin'}
+Entities missing: {'Arab–Israeli_conflict', 'West_Bank'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Unix', 'Computer_industry'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Michelangelo_(computer_virus)', 'IBM'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Personal_computer', 'Software'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Scotland_Yard', 'IBM'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'National_Computing_Centre', '@UK'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Michelangelo_(computer_virus)', 'AIDS'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'McAfee', 'Winn_Schwartau'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee_VirusScan'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {"Ministry_of_Public_Security_of_the_People's_Republic_of_China", 'China_Huaneng_Group'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Michelangelo_(computer_virus)', 'McAfee'}
+Entities missing: {'McAfee_VirusScan', 'Winn_Schwartau'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Cleveland', 'IBM'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Columbus_Day', 'IBM'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Winn_Schwartau', 'IBM'}
+Entities missing: {'Michelangelo_(computer_virus)', 'McAfee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'McAfee', 'McAfee_VirusScan'}
+Entities missing: {'Michelangelo_(computer_virus)', 'Winn_Schwartau'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'McAfee', 'McAfee_VirusScan'}
+Entities missing: {'Michelangelo_(computer_virus)', 'Winn_Schwartau'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 311 Query: industrial espionage ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Opel', 'General_Motors'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Michelangelo_(computer_virus)', 'Intel'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 649 Query: computer viruses ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Michelangelo_(computer_virus)', 'Italian_Renaissance'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'National_Academy_of_Sciences', 'Elmo_Zumwalt'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'National_Academy_of_Sciences', 'Centers_for_Disease_Control_and_Prevention'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Arizona', 'Antelope_Valley'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'National_Academy_of_Sciences', 'Centers_for_Disease_Control_and_Prevention'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'National_Academy_of_Sciences', 'United_States_Department_of_Veterans_Affairs'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_Veterans_of_America', 'Centers_for_Disease_Control_and_Prevention'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Campaign_Against_Marijuana_Planting', 'California'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Drug_Enforcement_Administration', 'Daryl_Gates'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Drug_Enforcement_Administration', 'Daryl_Gates'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Drug_Enforcement_Administration'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'NASA', 'Mars'}
+Entities missing: {'Venus', 'Worcestershire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Worcestershire', 'John_Drew_(actor)'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Poliomyelitis', 'Pan_American_Health_Organization'}
+Entities missing: {'March_of_Dimes', 'Polio_vaccine'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Monrovia,_California', 'San_Gabriel_Valley'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 312 Query: hydroponics ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'National_Criminal_Intelligence_Service'}
+Entities missing: {'NASA', 'Mars'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California-Nevada_Interstate_Maglev', 'California_Department_of_Transportation'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Bechtel', 'California-Nevada_Interstate_Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Bechtel', 'California-Nevada_Interstate_Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Bechtel', 'California-Nevada_Interstate_Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Bechtel', 'California_Department_of_Transportation'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Bechtel', 'California-Nevada_Interstate_Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Transrapid', 'Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'California-Nevada_Interstate_Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Transrapid', 'Transrapid/German'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'March_of_Dimes', 'Jonas_Salk'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Transrapid', 'Transrapid/German'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Transrapid', 'Shanghai_Maglev_Train'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Shanghai_Maglev_Train', 'Maglev'}
+Entities missing: {'Swissmetro', 'California-Nevada_Interstate_Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Entities missing: {'Transrapid', 'Transrapid/German'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Los_Angeles_International_Airport', 'California_Department_of_Transportation'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Shanghai_Maglev_Train', 'California_Department_of_Transportation'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Los_Angeles_International_Airport', 'California_Department_of_Transportation'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Entities missing: {'Swissmetro', 'Transrapid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Yamanashi_Prefecture', 'Japan_Railways_Group'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Transrapid', 'Hamburg'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Jonas_Salk', 'Centers_for_Disease_Control_and_Prevention'}
+Entities missing: {'March_of_Dimes', 'Polio_vaccine'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Transrapid', 'Shanghai_Maglev_Train'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Muslim', 'African_Christian_Democratic_Party'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'HIV/AIDS_in_Uganda', 'AIDS'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'HIV/AIDS_in_Uganda', 'AIDS'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Al-Arqam', 'Islam'}
+Entities missing: {'Ervil_LeBaron', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Mahathir_Mohamad', 'Al-Arqam'}
+Entities missing: {'Ervil_LeBaron', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Tunisia', 'Habib_Bourguiba'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Code_of_Personal_Status_(Tunisia)', 'Habib_Bourguiba'}
+Entities missing: {'Al-Arqam', 'Ervil_LeBaron'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Code_of_Personal_Status_(Tunisia)', 'Habib_Bourguiba'}
+Entities missing: {'Al-Arqam', 'Ervil_LeBaron'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Code_of_Personal_Status_(Tunisia)', 'Habib_Bourguiba'}
+Entities missing: {'Al-Arqam', 'Ervil_LeBaron'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'China', 'Chinas'}
+Entities missing: {'March_of_Dimes', 'Polio_vaccine'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ervil_LeBaron', 'June'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Islam', 'Kazakhs'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Nigeria', 'Muslim'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Islam', 'History_of_Tunisia'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'June'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Khmer_Rouge', 'Khmer_Rouge_rule_of_Cambodia'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ed_Markey', 'Federal_Communications_Commission'}
+Entities missing: {'Matthew_John_Rinaldo', 'Fax'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Senate', 'California'}
+Entities missing: {'Fax', 'Ed_Markey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California,_Missouri', 'United_States_Congress'}
+Entities missing: {'Fax', 'Ed_Markey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California_State_Legislature', 'Federal_Communications_Commission'}
+Entities missing: {'Fax', 'Ed_Markey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Delmas,_Mpumalanga', 'Union_of_South_Africa'}
+Entities missing: {'March_of_Dimes', 'Polio_vaccine'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Ed_Markey', 'Federal_Communications_Commission'}
+Entities missing: {'California_State_Legislature', 'Fax'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Fax'}
+Entities missing: {'Ed_Markey', 'Federal_Communications_Commission'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 317 Query: unsolicited faxes ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'United_States_Senate', 'Los_Angeles'}
+Entities missing: {'Fax', 'Ed_Markey'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'Foreign_relations_of_Argentina', 'Carlos_Menem'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'Great_Britain', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'British_Empire', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'British_Empire', 'Great_Britain'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Gujarat', 'Poliomyelitis'}
+Entities missing: {'March_of_Dimes', 'Polio_vaccine'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'Foreign_relations_of_Argentina', 'British_Empire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'British_Empire', 'Great_Britain'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'British_Empire', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 324 Query: argentine british relations ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'History_of_the_Falkland_Islands'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'March_of_Dimes', 'Jonas_Salk'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

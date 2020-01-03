@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 316 Query: polygamy polyandry polygyny ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Islam', 'Kazakhs'}
+Entities missing: {'Al-Arqam', 'Code_of_Personal_Status_(Tunisia)'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

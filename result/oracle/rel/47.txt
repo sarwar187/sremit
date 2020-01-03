@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 313 Query: magnetic levitation maglev ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Bechtel', 'California-Nevada_Interstate_Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

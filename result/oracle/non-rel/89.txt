@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 430 Query: killer bee attacks ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'California'}
+Entities missing: {'Africa', 'Africanized_bee'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

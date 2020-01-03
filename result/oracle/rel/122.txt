@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 348 Query: agoraphobia ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'HMS_Vanguard', 'HMS_Vanguard_(1787)'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

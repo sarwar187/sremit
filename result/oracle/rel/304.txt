@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 450 Query: king hussein peace ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Hussein_of_Jordan'}
+Entities missing: {'Arab–Israeli_conflict', 'Yitzhak_Rabin'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

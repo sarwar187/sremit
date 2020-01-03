@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 663 Query: agent orange exposure ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Vietnam_War', 'Agent_Orange'}
+Entities missing: {'Vietnam_Veterans_of_America', 'Centers_for_Disease_Control_and_Prevention'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

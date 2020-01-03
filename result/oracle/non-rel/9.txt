@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 302 Query: poliomyelitis and post polio ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Poliomyelitis', 'Washington,_D.C.'}
+Entities missing: {'March_of_Dimes', 'Polio_vaccine'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

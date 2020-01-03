@@ -26,6 +26,7 @@ class DataLoader:
             query_to_doc_dir = os.path.join(config["data"], config["dataset"]["name"], config["directories"]["query_to_docs"]) 
             query_files = query_to_doc_dir + "/*.json" 
             files = glob.glob(query_files)
+
             for file in files: 
                 query_id = file.split("/")[-1].split(".")[0]
                 description, _ = extract_description_and_narrative(topic_description_dict[query_id])
@@ -135,12 +136,22 @@ def get_valid_queries(query_to_linked_documents):
             if document[2] == 1:
                 num_relevant_documents+=1    
 
+        #relevant document thresholding
         if num_relevant_documents < 5:
             valid_queries.append(query)
 
     return valid_queries, query_to_linked_entities
 
 def extract_description_and_narrative(text):
+    """[takes a robust query xml string and finds description and narrative]
+    
+    Arguments:
+        text {[text]} -- [robust_query_xml]
+    
+    Returns:
+        [text] -- [desciption]
+        [text] -- [narrative]
+    """
     text_splitted = text.split("\n")
     desc = 0
     narr = 0

@@ -1,0 +1,12 @@
+Assume that you have issued the following query to a web search engine
+
+*** qid: 444 Query: supercritical fluids ***
+
+Now assume the search engine retrieved a document. We are showing a few entities that are present in the document and a few entities that absent
+
+Entities present: {'Karlsruhe_Institute_of_Technology', 'Massachusetts_Institute_of_Technology'}
+Entities missing: {'United_States_Environmental_Protection_Agency', 'Supercritical_fluid'}
+
+Would you click this document?
+How likely it is for you to click this document in a scale from 1-5?
+

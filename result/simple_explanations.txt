@@ -1,0 +1,2355 @@
+*** qid: 302 Query: poliomyelitis and post polio ***
+Explaining document FBIS3-60561
+Entities present: {'Union_of_South_Africa', 'Poliomyelitis'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document FR940620-2-00118
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'Jonas_Salk', 'March_of_Dimes'}
+Document is non-relevant
+
+Explaining document LA060589-0052
+Entities present: {'AIDES', 'AIDS'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is non-relevant
+
+Explaining document LA071590-0110
+Entities present: {'Polio_vaccine', 'March_of_Dimes'}
+Entities missing: {'Pan_American_Health_Organization', 'OPV_AIDS_hypothesis'}
+Document is non-relevant
+
+Explaining document FR940126-2-00106
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'Jonas_Salk', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document LA090290-0118
+Entities present: {'Jonas_Salk', 'Poliomyelitis'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is non-relevant
+
+Explaining document LA043090-0036
+Entities present: {'Pan_American_Health_Organization', 'Poliomyelitis'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document LA042290-0105
+Entities present: {'Cajun', 'Poliomyelitis'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is non-relevant
+
+Explaining document FR940126-2-00101
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'Jonas_Salk', 'March_of_Dimes'}
+Document is non-relevant
+
+Explaining document FR940620-2-00117
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'Jonas_Salk', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document LA082490-0065
+Entities present: {'Jonas_Salk', 'Centers_for_Disease_Control_and_Prevention'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document FBIS3-60405
+Entities present: {'China', 'Chinas'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document FBIS3-60562
+Entities present: {'Union_of_South_Africa', 'Delmas,_Mpumalanga'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document LA091990-0020
+Entities present: {'Jonas_Salk', 'Poliomyelitis'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is non-relevant
+
+Explaining document FBIS4-67701
+Entities present: {'Poliomyelitis', 'Gujarat'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document FT932-4485
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'Jonas_Salk', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document LA081290-0078
+Entities present: {'Jonas_Salk', 'Poliomyelitis'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is non-relevant
+
+Explaining document LA072890-0066
+Entities present: {'Poliomyelitis', 'Polio_vaccine'}
+Entities missing: {'Jonas_Salk', 'March_of_Dimes'}
+Document is relevant
+
+Explaining document FT931-5665
+Entities present: {'Washington,_D.C.', 'Poliomyelitis'}
+Entities missing: {'Polio_vaccine', 'March_of_Dimes'}
+Document is non-relevant
+
+--------------------------------------------------
+*** qid: 308 Query: implant dentistry ***
+Explaining document FT921-15618
+Entities present: {'@UK', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FT921-15925
+Entities present: {'@UK', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FT921-2037
+Entities present: {'@UK', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FT944-17268
+Entities present: {'@UK', 'Colin_Humphreys'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is relevant
+
+Explaining document LA032790-0087
+Entities present: {'Asthma_and_Allergy_Foundation_of_America', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document LA120490-0083
+Entities present: {'Food_and_Drug_Administration', 'Criticism_of_the_Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document LA121090-0057
+Entities present: {'University_of_Southern_California', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document LA090490-0116
+Entities present: {'Casey,_Illinois', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FR940214-1-00036
+Entities present: {'Commissioner_of_Food_and_Drugs', 'Dentistry'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is relevant
+
+Explaining document FR940616-2-00073
+Entities present: {'Food_and_Drug_Administration', 'Criticism_of_the_Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FR941220-0-00005
+Entities present: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Entities missing: {'Harvard_School_of_Dental_Medicine', 'UCLA_School_of_Dentistry'}
+Document is non-relevant
+
+Explaining document FR940425-0-00013
+Entities present: {'Commissioner_of_Food_and_Drugs', 'Criticism_of_the_Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FR940722-0-00038
+Entities present: {'Food_and_Drug_Administration', 'Criticism_of_the_Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FT921-14498
+Entities present: {'Food_and_Drug_Administration', 'Criticism_of_the_Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FT921-8402
+Entities present: {'Food_and_Drug_Administration', 'Criticism_of_the_Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FT921-9319
+Entities present: {'Food_and_Drug_Administration', 'Corning_Incorporated'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document FT921-7566
+Entities present: {'Food_and_Drug_Administration', 'Criticism_of_the_Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+Explaining document LA070489-0051
+Entities present: {'Dentistry', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is relevant
+
+Explaining document FT921-9051
+Entities present: {'Dow_Corning', 'Food_and_Drug_Administration'}
+Entities missing: {'Oral_and_maxillofacial_surgery', 'Oral_surgery'}
+Document is non-relevant
+
+--------------------------------------------------
+*** qid: 311 Query: industrial espionage ***
+Explaining document FT932-6611
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+Document is relevant
+
+Explaining document FT933-10713
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-11094
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-11348
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+Document is relevant
+
+Explaining document FT933-11583
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-11586
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-12936
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-13747
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+Document is relevant
+
+Explaining document FT933-6355
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Opel_Astra', 'Federal_Bureau_of_Investigation'}
+Document is relevant
+
+Explaining document FT933-6558
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-6561
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-7932
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Volkswagen_Group', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-8010
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Volkswagen_Group', 'Günter_Rexrodt'}
+Document is relevant
+
+Explaining document FT933-8481
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+Document is relevant
+
+Explaining document FT933-9676
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+Document is relevant
+
+Explaining document FT942-6599
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'Federal_Bureau_of_Investigation'}
+Document is relevant
+
+Explaining document FT944-18257
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-8576
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'General_Motors_Europe'}
+Document is relevant
+
+Explaining document FT933-9694
+Entities present: {'General_Motors', 'Opel'}
+Entities missing: {'Günter_Rexrodt', 'Seat'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 312 Query: hydroponics ***
+Explaining document LA112690-0065
+Entities present: {'Arizona', 'Antelope_Valley'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document LA090990-0181
+Entities present: {'Arab_people', 'Arab_world'}
+Entities missing: {'Mars', 'NASA'}
+Document is non-relevant
+
+Explaining document FR940602-0-00005
+Entities present: {'Bib_(garment)'}
+Entities missing: {'Mars', 'NASA'}
+Document is non-relevant
+
+Explaining document LA062289-0087
+Entities present: {'Campaign_Against_Marijuana_Planting', 'California'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document LA041289-0085
+Entities present: {'Daryl_Gates', 'Drug_Enforcement_Administration'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document LA041289-0119
+Entities present: {'Daryl_Gates', 'Drug_Enforcement_Administration'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document LA051090-0097
+Entities present: {'Drug_Enforcement_Administration'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document LA040289-0050
+Entities present: {'Mars', 'NASA'}
+Entities missing: {'Worcestershire', 'Venus'}
+Document is relevant
+
+Explaining document LA042990-0148
+Entities present: {'Mars', 'NASA'}
+Entities missing: {'Worcestershire', 'Antelope_Valley'}
+Document is non-relevant
+
+Explaining document FT944-5797
+Entities present: {'IBM_Personal_Computer', 'IBM'}
+Entities missing: {'Mars', 'NASA'}
+Document is non-relevant
+
+Explaining document FT941-1060
+Entities present: {'Worcestershire', 'John_Drew_(actor)'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document LA102490-0077
+Entities present: {'Monrovia,_California', 'San_Gabriel_Valley'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document FBIS4-67023
+Entities present: {'National_Criminal_Intelligence_Service'}
+Entities missing: {'Mars', 'NASA'}
+Document is relevant
+
+Explaining document LA091489-0029
+Entities present: {'Worcestershire'}
+Entities missing: {'Mars', 'NASA'}
+Document is non-relevant
+
+--------------------------------------------------
+*** qid: 313 Query: magnetic levitation maglev ***
+Explaining document LA020390-0105
+Entities present: {'California_Department_of_Transportation', 'California-Nevada_Interstate_Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+Document is relevant
+
+Explaining document LA081590-0078
+Entities present: {'California-Nevada_Interstate_Maglev', 'Bechtel'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+Document is relevant
+
+Explaining document LA102690-0187
+Entities present: {'California-Nevada_Interstate_Maglev', 'Bechtel'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+Document is relevant
+
+Explaining document LA072090-0014
+Entities present: {'California-Nevada_Interstate_Maglev', 'Bechtel'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+Document is relevant
+
+Explaining document LA080290-0036
+Entities present: {'California_Department_of_Transportation', 'Bechtel'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document LA121290-0081
+Entities present: {'California-Nevada_Interstate_Maglev', 'Bechtel'}
+Entities missing: {'Shanghai_Maglev_Train', 'Maglev'}
+Document is relevant
+
+Explaining document FBIS3-40374
+Entities present: {'Transrapid', 'Maglev'}
+Entities missing: {'Shanghai_Maglev_Train', 'California-Nevada_Interstate_Maglev'}
+Document is relevant
+
+Explaining document FBIS4-43553
+Entities present: {'Transrapid', 'Transrapid/German'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document FT941-3834
+Entities present: {'Transrapid', 'Transrapid/German'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document FT941-6205
+Entities present: {'Transrapid', 'Shanghai_Maglev_Train'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document FT942-11138
+Entities present: {'Shanghai_Maglev_Train', 'Maglev'}
+Entities missing: {'Swissmetro', 'California-Nevada_Interstate_Maglev'}
+Document is relevant
+
+Explaining document FT943-3198
+Entities present: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Entities missing: {'Transrapid', 'Transrapid/German'}
+Document is relevant
+
+Explaining document LA091590-0065
+Entities present: {'California_Department_of_Transportation', 'Los_Angeles_International_Airport'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document LA080490-0125
+Entities present: {'Shanghai_Maglev_Train', 'California_Department_of_Transportation'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document LA100390-0023
+Entities present: {'California_Department_of_Transportation', 'Los_Angeles_International_Airport'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document LA031890-0224
+Entities present: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Entities missing: {'Transrapid', 'Swissmetro'}
+Document is relevant
+
+Explaining document FBIS3-59655
+Entities present: {'Yamanashi_Prefecture', 'Japan_Railways_Group'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document FBIS4-20517
+Entities present: {'Transrapid', 'Hamburg'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+Explaining document FT944-3015
+Entities present: {'Transrapid', 'Shanghai_Maglev_Train'}
+Entities missing: {'California-Nevada_Interstate_Maglev', 'Maglev'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 316 Query: polygamy polyandry polygyny ***
+Explaining document FBIS4-1213
+Entities present: {'Muslim', 'African_Christian_Democratic_Party'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT933-7689
+Entities present: {'AIDS', 'HIV/AIDS_in_Uganda'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT942-4193
+Entities present: {'AIDS', 'HIV/AIDS_in_Uganda'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT943-10242
+Entities present: {'Al-Arqam', 'Islam'}
+Entities missing: {'Ervil_LeBaron', 'Code_of_Personal_Status_(Tunisia)'}
+Document is relevant
+
+Explaining document FT943-2362
+Entities present: {'Mahathir_Mohamad', 'Al-Arqam'}
+Entities missing: {'Ervil_LeBaron', 'Code_of_Personal_Status_(Tunisia)'}
+Document is relevant
+
+Explaining document FBIS3-21482
+Entities present: {'Habib_Bourguiba', 'Tunisia'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT932-3422
+Entities present: {'Habib_Bourguiba', 'Code_of_Personal_Status_(Tunisia)'}
+Entities missing: {'Ervil_LeBaron', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT943-5141
+Entities present: {'Habib_Bourguiba', 'Code_of_Personal_Status_(Tunisia)'}
+Entities missing: {'Ervil_LeBaron', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT944-2863
+Entities present: {'Habib_Bourguiba', 'Code_of_Personal_Status_(Tunisia)'}
+Entities missing: {'Ervil_LeBaron', 'Al-Arqam'}
+Document is relevant
+
+Explaining document LA111289-0102
+Entities present: {'Ervil_LeBaron', 'June'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FBIS3-61092
+Entities present: {'Kazakhs', 'Islam'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT931-15177
+Entities present: {'Europe'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is non-relevant
+
+Explaining document LA110490-0020
+Entities present: {'Muslim', 'Nigeria'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document LA012289-0004
+Entities present: {'History_of_Tunisia', 'Islam'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FT932-4228
+Entities present: {'June'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+Explaining document FBIS4-28922
+Entities present: {'Khmer_Rouge_rule_of_Cambodia', 'Khmer_Rouge'}
+Entities missing: {'Code_of_Personal_Status_(Tunisia)', 'Al-Arqam'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 317 Query: unsolicited faxes ***
+Explaining document FT922-14495
+Entities present: {'Bis_(band)', '@UK'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document FT922-2162
+Entities present: {'@UK', 'Cable_&_Wireless_Worldwide'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document FT932-14126
+Entities present: {'Integrated_Services_Digital_Network', '@UK'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document FT932-15110
+Entities present: {'@UK', 'Bram_Fischer'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document FT942-3224
+Entities present: {'@UK', 'Cable_&_Wireless_Worldwide'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document LA061289-0020
+Entities present: {'Beijing', 'Fax'}
+Entities missing: {'Ed_Markey', 'Federal_Communications_Commission'}
+Document is non-relevant
+
+Explaining document FT923-4279
+Entities present: {'Hewlett-Packard', 'California'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document LA020389-0124
+Entities present: {'Los_Angeles', 'California'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document LA073190-0082
+Entities present: {'Ed_Markey', 'Federal_Communications_Commission'}
+Entities missing: {'Matthew_John_Rinaldo', 'Fax'}
+Document is relevant
+
+Explaining document LA090789-0074
+Entities present: {'United_States_Senate', 'California'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is relevant
+
+Explaining document LA102290-0137
+Entities present: {'June', 'California'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document LA021189-0015
+Entities present: {'United_States_Congress', 'California,_Missouri'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is relevant
+
+Explaining document LA080889-0065
+Entities present: {'California_State_Legislature', 'Federal_Communications_Commission'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is relevant
+
+Explaining document LA071590-0170
+Entities present: {'Ed_Markey', 'Federal_Communications_Commission'}
+Entities missing: {'California_State_Legislature', 'Fax'}
+Document is relevant
+
+Explaining document LA052489-0152
+Entities present: {'Fax'}
+Entities missing: {'Ed_Markey', 'Federal_Communications_Commission'}
+Document is relevant
+
+Explaining document LA073089-0058
+Entities present: {'Intel', 'IBM'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document LA092090-0060
+Entities present: {'IBM_PC_compatible', 'IBM'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is non-relevant
+
+Explaining document LA041589-0053
+Entities present: {'Los_Angeles', 'United_States_Senate'}
+Entities missing: {'Ed_Markey', 'Fax'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 324 Query: argentine british relations ***
+Explaining document FBIS3-59016
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'Foreign_relations_of_Argentina', 'Carlos_Menem'}
+Document is relevant
+
+Explaining document FBIS4-56741
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Great_Britain'}
+Document is relevant
+
+Explaining document FT911-3135
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Document is relevant
+
+Explaining document FT921-1950
+Entities present: {'Falklands_War', 'British_Empire'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falkland_Islands_sovereignty_dispute'}
+Document is relevant
+
+Explaining document FT922-3165
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Document is relevant
+
+Explaining document FT922-8324
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'Great_Britain', 'British_Empire'}
+Document is relevant
+
+Explaining document FT931-16104
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Document is relevant
+
+Explaining document FT931-16617
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'Foreign_relations_of_Argentina', 'British_Empire'}
+Document is relevant
+
+Explaining document FT933-9214
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Document is relevant
+
+Explaining document FT934-13429
+Entities present: {'Falklands_War', 'Falkland_Islands'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falkland_Islands_sovereignty_dispute'}
+Document is relevant
+
+Explaining document FT934-2085
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Document is relevant
+
+Explaining document FT941-13429
+Entities present: {'Falklands_War', 'Falkland_Islands'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falkland_Islands_sovereignty_dispute'}
+Document is relevant
+
+Explaining document FT942-12805
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Document is relevant
+
+Explaining document FT943-14758
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falklands_War'}
+Entities missing: {'Great_Britain', 'British_Empire'}
+Document is relevant
+
+Explaining document FBIS3-10551
+Entities present: {'Falklands_War', 'British_Empire'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falkland_Islands_sovereignty_dispute'}
+Document is relevant
+
+Explaining document FBIS3-50570
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'British_Empire'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Document is relevant
+
+Explaining document FBIS4-57354
+Entities present: {'Falklands_War', 'Falkland_Islands'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falkland_Islands_sovereignty_dispute'}
+Document is relevant
+
+Explaining document FT924-14912
+Entities present: {'History_of_the_Falkland_Islands', 'Falklands_War'}
+Entities missing: {'Foreign_relations_of_Argentina', 'Falkland_Islands_sovereignty_dispute'}
+Document is non-relevant
+
+Explaining document FT934-11446
+Entities present: {'Falklands_War', 'Falkland_Islands'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Falkland_Islands_sovereignty_dispute'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 326 Query: ferry sinkings ***
+Explaining document FT943-178
+Entities present: {'MS_Herald_of_Free_Enterprise', 'International_Maritime_Organization'}
+Entities missing: {'Baltic_Sea', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT943-536
+Entities present: {'MS_Herald_of_Free_Enterprise', 'Baltic_Sea'}
+Entities missing: {'Estline', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT944-11048
+Entities present: {'MS_Herald_of_Free_Enterprise', 'Baltic_Sea'}
+Entities missing: {'Estline', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT944-17957
+Entities present: {'International_Maritime_Organization', '@UK'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT944-18499
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'Estline'}
+Document is relevant
+
+Explaining document FT943-543
+Entities present: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Entities missing: {'International_Maritime_Organization', 'Silja_Line'}
+Document is relevant
+
+Explaining document FT944-15143
+Entities present: {'International_Maritime_Organization', 'Baltic_Sea'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT944-17958
+Entities present: {'Estline', 'Baltic_Sea'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is non-relevant
+
+Explaining document FT944-18592
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'Estline'}
+Document is relevant
+
+Explaining document FT943-312
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'Estline'}
+Document is relevant
+
+Explaining document FT943-316
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'Silja_Line'}
+Document is relevant
+
+Explaining document FT944-10109
+Entities present: {'International_Maritime_Organization', 'Baltic_Sea'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT944-18508
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'Estline'}
+Document is relevant
+
+Explaining document FT944-18722
+Entities present: {'Baltic_Sea', 'Silja_Line'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT944-18875
+Entities present: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Entities missing: {'Estline', 'Silja_Line'}
+Document is relevant
+
+Explaining document FT944-18877
+Entities present: {'Baltic_Sea', 'MS_Estonia'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'Estline'}
+Document is non-relevant
+
+Explaining document FT944-18938
+Entities present: {'Baltic_Sea', 'Silja_Line'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT944-5248
+Entities present: {'International_Maritime_Organization', 'Baltic_Sea'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is relevant
+
+Explaining document FT943-535
+Entities present: {'Estonia', 'Stockholm'}
+Entities missing: {'MS_Herald_of_Free_Enterprise', 'MS_Estonia'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 348 Query: agoraphobia ***
+Explaining document LA041590-0202
+Entities present: {'Charles_M._Schulz', 'Charlie_Brown'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA062890-0147
+Entities present: {'Charlie_Brown', 'Snoopy'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+Document is non-relevant
+
+Explaining document LA071690-0010
+Entities present: {'Charles_M._Schulz', 'Charlie_Brown'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA100689-0117
+Entities present: {'Charles_M._Schulz', 'Charlie_Brown'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is relevant
+
+Explaining document LA112289-0112
+Entities present: {'Charles_M._Schulz', 'Charlie_Brown'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA051390-0188
+Entities present: {'Charles_M._Schulz', 'Barney_Google_and_Snuffy_Smith'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document FT922-4205
+Entities present: {'France', 'Beacon,_New_York'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+Document is relevant
+
+Explaining document LA011990-0083
+Entities present: {'Charles_M._Schulz', 'Snoopy'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA012390-0169
+Entities present: {'Charles_M._Schulz', 'Snoopy'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA012490-0028
+Entities present: {'Charles_M._Schulz', 'Snoopy'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA052889-0043
+Entities present: {'Charles_M._Schulz'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA062689-0078
+Entities present: {'Charles_M._Schulz'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA062690-0149
+Entities present: {'Charles_M._Schulz', 'Charlie_Brown'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA091790-0126
+Entities present: {'Charles_M._Schulz', 'Forbes'}
+Entities missing: {'Miss_Havisham', 'Great_Expectations'}
+Document is non-relevant
+
+Explaining document LA070589-0081
+Entities present: {'Miss_Havisham', 'Great_Expectations'}
+Entities missing: {'Charles_M._Schulz', 'Charlie_Brown'}
+Document is relevant
+
+Explaining document LA091789-0058
+Entities present: {'Forbes', 'Michael_Jackson'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+Document is non-relevant
+
+Explaining document LA061089-0052
+Entities present: {'San_Fernando_Valley', 'Harbor–UCLA_Medical_Center'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+Document is relevant
+
+Explaining document FT944-3904
+Entities present: {'HMS_Vanguard_(1787)', 'HMS_Vanguard'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+Document is relevant
+
+Explaining document LA012190-0028
+Entities present: {'Los_Angeles', 'Saturday'}
+Entities missing: {'Charles_M._Schulz', 'Miss_Havisham'}
+Document is non-relevant
+
+--------------------------------------------------
+*** qid: 351 Query: falkland petroleum exploration ***
+Explaining document FBIS3-59016
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'Carlos_Menem'}
+Document is relevant
+
+Explaining document FBIS4-56741
+Entities present: {'Falkland_Islands_sovereignty_dispute', 'Falkland_Islands'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+Document is relevant
+
+Explaining document FT921-1950
+Entities present: {'Falklands_War', 'Falkland_Islands'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+Document is non-relevant
+
+Explaining document FT921-6603
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FT922-14936
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FT922-15099
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FT922-3165
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FT923-11890
+Entities present: {'British_Geological_Survey', 'Falkland_Islands'}
+Entities missing: {'Falkland_Islands_sovereignty_dispute', 'YPF'}
+Document is relevant
+
+Explaining document FT931-16104
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is non-relevant
+
+Explaining document FT931-16617
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FT931-932
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FT934-4848
+Entities present: {'British_Geological_Survey', 'Falkland_Islands'}
+Entities missing: {'History_of_the_Falkland_Islands', 'YPF'}
+Document is relevant
+
+Explaining document FT941-13429
+Entities present: {'Falkland_Islands', 'YPF'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+Document is relevant
+
+Explaining document FT942-12805
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FT943-6372
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is non-relevant
+
+Explaining document FT944-15849
+Entities present: {'Falkland_Islands', 'YPF'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+Document is relevant
+
+Explaining document FBIS4-57354
+Entities present: {'Falkland_Islands', 'YPF'}
+Entities missing: {'Economy_of_the_Falkland_Islands', 'British_Geological_Survey'}
+Document is relevant
+
+Explaining document FT921-2097
+Entities present: {'Economy_of_the_Falkland_Islands', 'Falkland_Islands'}
+Entities missing: {'British_Geological_Survey', 'YPF'}
+Document is relevant
+
+Explaining document FBIS3-33035
+Entities present: {'British_Geological_Survey', 'Falkland_Islands'}
+Entities missing: {'History_of_the_Falkland_Islands', 'Economy_of_the_Falkland_Islands'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 353 Query: antarctica exploration ***
+Explaining document FR941012-2-00099
+Entities present: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Entities missing: {'Antarctic_Peninsula', 'History_of_Antarctica'}
+Document is non-relevant
+
+Explaining document FT941-6973
+Entities present: {'Amundsen–Scott_South_Pole_Station', 'Roald_Amundsen'}
+Entities missing: {'United_States_Antarctic_Program', 'McMurdo_Station'}
+Document is non-relevant
+
+Explaining document LA040590-0149
+Entities present: {'Amundsen–Scott_South_Pole_Station', 'Roald_Amundsen'}
+Entities missing: {'United_States_Antarctic_Program', 'History_of_Antarctica'}
+Document is relevant
+
+Explaining document LA052889-0108
+Entities present: {'Amundsen–Scott_South_Pole_Station', 'Roald_Amundsen'}
+Entities missing: {'United_States_Antarctic_Program', 'McMurdo_Station'}
+Document is non-relevant
+
+Explaining document FBIS4-5466
+Entities present: {'Antarctic_Peninsula', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is non-relevant
+
+Explaining document FBIS4-67402
+Entities present: {'Antarctic_Peninsula', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is non-relevant
+
+Explaining document FBIS4-67409
+Entities present: {'Antarctic_Peninsula', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is non-relevant
+
+Explaining document FT911-4349
+Entities present: {'Antarctic_Peninsula', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document FT944-18764
+Entities present: {'Antarctic_Peninsula', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is non-relevant
+
+Explaining document LA100990-0079
+Entities present: {'Territorial_claims_in_Antarctica', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document LA102189-0067
+Entities present: {'Antarctic_Peninsula', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document LA111690-0059
+Entities present: {'Antarctic_Treaty_System', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document FT911-558
+Entities present: {'Antarctic_Treaty_System', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document FBIS3-61405
+Entities present: {'Hydrometeorological_Centre_of_Russia', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document FT911-1769
+Entities present: {'Chile', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document FT911-4261
+Entities present: {'Australia', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document FT911-4348
+Entities present: {'Greenpeace', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document FT942-7081
+Entities present: {'Colonization_of_Antarctica', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+Explaining document LA120389-0149
+Entities present: {'Convention_for_the_Conservation_of_Antarctic_Marine_Living_Resources', 'Antarctica'}
+Entities missing: {'United_States_Antarctic_Program', 'Roald_Amundsen'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 357 Query: territorial waters dispute ***
+Explaining document FBIS4-44130
+Entities present: {'Aegean_dispute', 'Aegean_Islands'}
+Entities missing: {'Spratly_Islands_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FT944-8867
+Entities present: {'Aegean_dispute', 'United_Nations_Convention_on_the_Law_of_the_Sea'}
+Entities missing: {'Spratly_Islands_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FT944-9398
+Entities present: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+Entities missing: {'Kuril_Islands', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS3-58550
+Entities present: {'Aegean_dispute', 'Aegean_Islands'}
+Entities missing: {'Spratly_Islands_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS4-43466
+Entities present: {'Aegean_dispute', 'Aegean_Islands'}
+Entities missing: {'Spratly_Islands_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS4-65392
+Entities present: {'Aegean_Sea', 'Aegean_dispute'}
+Entities missing: {'Spratly_Islands_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS3-49541
+Entities present: {'Albania', 'Albanian_Naval_Defense_Forces'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS3-49638
+Entities present: {'Albania', 'Greece'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS4-8685
+Entities present: {'Albania', 'Greece'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is non-relevant
+
+Explaining document FBIS3-36489
+Entities present: {'Kuril_Islands', 'Kuril_Islands_dispute'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS4-65231
+Entities present: {'Greece', 'Turkey'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS4-49663
+Entities present: {'Spratly_Islands_dispute', 'South_China_Sea_Islands'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS3-48123
+Entities present: {'Japan–Russia_relations', 'Japan'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS3-56981
+Entities present: {'Japan–Russia_relations', 'Kuril_Islands_dispute'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+Document is relevant
+
+Explaining document FT943-6374
+Entities present: {'Kuril_Islands', 'Kuril_Islands_dispute'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS4-43299
+Entities present: {'Greece', 'Russia'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is relevant
+
+Explaining document FBIS3-56977
+Entities present: {'Kuril_Islands', 'Kuril_Islands_dispute'}
+Entities missing: {'Aegean_dispute', 'Spratly_Islands_dispute'}
+Document is relevant
+
+Explaining document FT943-8618
+Entities present: {'United_Nations_Convention_on_the_Law_of_the_Sea', 'Russia'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is non-relevant
+
+Explaining document FBIS4-51794
+Entities present: {'South_Korea'}
+Entities missing: {'Aegean_dispute', 'Kuril_Islands_dispute'}
+Document is non-relevant
+
+--------------------------------------------------
+*** qid: 365 Query: el nino ***
+Explaining document FT921-10204
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document FT922-12623
+Entities present: {'Agriculture', 'El_Niño-Southern_Oscillation'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document FT923-14358
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document FT932-14766
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA110390-0071
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA123090-0031
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA071790-0136
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA080890-0116
+Entities present: {'Baja_California', 'El_Niño-Southern_Oscillation'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA041890-0004
+Entities present: {'El_Niño-Southern_Oscillation', 'California'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document FT922-643
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document FT922-5507
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA112790-0036
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA121490-0119
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document FT922-14235
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA062890-0007
+Entities present: {'La_Niña', 'El_Niño-Southern_Oscillation'}
+Entities missing: {'Pacific_Rim', 'Pacific_Ocean'}
+Document is relevant
+
+Explaining document LA070990-0005
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document FR941104-2-00064
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA021690-0167
+Entities present: {'El_Niño-Southern_Oscillation', 'Pacific_Ocean'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+Explaining document LA050690-0183
+Entities present: {'San_Diego', 'El_Niño-Southern_Oscillation'}
+Entities missing: {'La_Niña', 'June_Gloom'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 368 Query: in vitro fertilization ***
+Explaining document LA080790-0131
+Entities present: {'Fertility_clinic', 'In_vitro_fertilisation'}
+Entities missing: {'Baby_M', 'Surrogacy'}
+Document is relevant
+
+Explaining document LA080889-0083
+Entities present: {'American_Society_for_Reproductive_Medicine', 'John_Robertson'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA081490-0032
+Entities present: {'Baby_M', 'Surrogacy'}
+Entities missing: {'Fertility_clinic', 'In_vitro_fertilisation'}
+Document is relevant
+
+Explaining document LA092790-0237
+Entities present: {'Anna_Johnson'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA102390-0121
+Entities present: {'Arthur_Caplan', 'Bill_Handel'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA081490-0123
+Entities present: {'Baby_M', 'Surrogacy'}
+Entities missing: {'Fertility_clinic', 'In_vitro_fertilisation'}
+Document is relevant
+
+Explaining document LA101890-0055
+Entities present: {'Anna_Johnson_Gates', 'Superior_Courts_of_California'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA101190-0211
+Entities present: {'Anna_Johnson_Pell_Wheeler', 'June'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA081289-0012
+Entities present: {'California'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA092189-0226
+Entities present: {'Florida', 'Circuit_judge_(UK)'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA101689-0053
+Entities present: {'The_New_England_Journal_of_Medicine', 'In_vitro_fertilisation'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA111190-0025
+Entities present: {'National_University_Hospital', 'In_vitro_fertilisation'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA092689-0055
+Entities present: {'Reproductive_medicine', 'June'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA103090-0134
+Entities present: {'Pulitzer,_Inc.', 'Morris,_Alabama'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA120789-0015
+Entities present: {'Orange_County,_New_York', 'Orange_County,_California'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA052790-0032
+Entities present: {'Stowe,_Vermont'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+Explaining document LA101290-0150
+Entities present: {'Superior_Courts_of_California', 'The_Times'}
+Entities missing: {'Baby_M', 'Fertility_clinic'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 400 Query: amazon rain forest ***
+Explaining document FT944-6336
+Entities present: {'Amazon_Surveillance_System', 'Amazon_rainforest'}
+Entities missing: {'Andrew_Revkin', 'Chico_Mendes'}
+Document is relevant
+
+Explaining document LA012289-0052
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA012289-0165
+Entities present: {'Amazon_Basin', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Amazon_rainforest'}
+Document is relevant
+
+Explaining document LA031289-0053
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA061790-0153
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA121290-0147
+Entities present: {'Xapuri', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Amazon_rainforest'}
+Document is relevant
+
+Explaining document LA102390-0098
+Entities present: {'Amazon_rainforest', 'Agroforestry'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA031190-0001
+Entities present: {'Amazon_rainforest', 'Susanna_Hecht'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is non-relevant
+
+Explaining document FT922-5538
+Entities present: {'Amazon_Basin', 'Amazon_rainforest'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document FT924-4583
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA032590-0089
+Entities present: {'Deforestation_of_the_Amazon_Rainforest', 'Amazon_rainforest'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA042389-0057
+Entities present: {'Amazon_River', 'Amazon_Basin'}
+Entities missing: {'Amazon_Surveillance_System', 'Amazon_rainforest'}
+Document is relevant
+
+Explaining document LA070890-0117
+Entities present: {'Amazon_rainforest', 'Andrew_Revkin'}
+Entities missing: {'Amazon_Surveillance_System', 'Deforestation_of_the_Amazon_Rainforest'}
+Document is relevant
+
+Explaining document LA082889-0025
+Entities present: {'Amazon_Basin', 'Amazon_rainforest'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is non-relevant
+
+Explaining document LA092390-0004
+Entities present: {'Andrew_Revkin', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Amazon_rainforest'}
+Document is relevant
+
+Explaining document LA121390-0112
+Entities present: {'Amazon_Basin', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Amazon_rainforest'}
+Document is relevant
+
+Explaining document LA121489-0128
+Entities present: {'Amazon_Basin', 'Amazon_rainforest'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA121890-0005
+Entities present: {'Amazon_rainforest', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Andrew_Revkin'}
+Document is relevant
+
+Explaining document LA111890-0263
+Entities present: {'Andrew_Revkin', 'Chico_Mendes'}
+Entities missing: {'Amazon_Surveillance_System', 'Amazon_rainforest'}
+Document is non-relevant
+
+--------------------------------------------------
+*** qid: 403 Query: osteoporosis ***
+Explaining document FR940525-1-00050
+Entities present: {'Dietary_Reference_Intake', 'Nutrition'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document FR940525-1-00062
+Entities present: {'Asian_people', 'Americans'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA011389-0029
+Entities present: {'Americans', 'University_of_Texas_Southwestern_Medical_Center'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA030689-0082
+Entities present: {'New_England', 'Americans'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is non-relevant
+
+Explaining document LA092890-0067
+Entities present: {'Americans', 'Dawson,_Illinois'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA020490-0136
+Entities present: {'Anne_Smith', 'Estrogen'}
+Entities missing: {'Hormone_replacement_therapy_(menopause)', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document FR940525-1-00078
+Entities present: {'Asian_people', 'Calcium,_New_York'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document FR940525-1-00063
+Entities present: {'Dietary_Reference_Intake', 'Reference_Daily_Intake'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document FR940525-1-00079
+Entities present: {'Dietary_Reference_Intake', 'Reference_Daily_Intake'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA033089-0013
+Entities present: {'Dietary_Reference_Intake', 'Calcium_in_biology'}
+Entities missing: {'Hormone_replacement_therapy_(menopause)', 'Estrogen'}
+Document is relevant
+
+Explaining document FT932-1044
+Entities present: {'Hormone_replacement_therapy_(menopause)', 'Ciba_Specialty_Chemicals'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA051889-0006
+Entities present: {'Drain,_Oregon', 'United_States_Department_of_Health_and_Human_Services'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA082890-0074
+Entities present: {'Estrogen', 'Food_and_Drug_Administration'}
+Entities missing: {'Hormone_replacement_therapy_(menopause)', 'Calcium_in_biology'}
+Document is non-relevant
+
+Explaining document FR940525-1-00054
+Entities present: {'Food_and_Drug_Administration', 'Reference_Daily_Intake'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is non-relevant
+
+Explaining document LA010790-0103
+Entities present: {'Ronald_Reagan_UCLA_Medical_Center', 'Food_and_Drug_Administration'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA071290-0133
+Entities present: {'New_England', 'Food_and_Drug_Administration'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document FR940603-2-00065
+Entities present: {'National_Institute_of_Arthritis_and_Musculoskeletal_and_Skin_Diseases', 'National_Institutes_of_Health'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+Explaining document LA041990-0072
+Entities present: {'Low-density_lipoprotein'}
+Entities missing: {'Estrogen', 'Calcium_in_biology'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 410 Query: schengen agreement ***
+Explaining document FT931-14276
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'France'}
+Document is relevant
+
+Explaining document FT932-16523
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'European_Parliament'}
+Document is relevant
+
+Explaining document FT924-3822
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Denmark', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FT933-16910
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'European_Parliament', 'France'}
+Document is relevant
+
+Explaining document FT934-14347
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Denmark'}
+Document is relevant
+
+Explaining document FBIS3-59008
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'European_Union', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FT922-751
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Denmark'}
+Document is relevant
+
+Explaining document FBIS4-44277
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'European_Union', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FT924-1015
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'European_Parliament', 'Denmark'}
+Document is relevant
+
+Explaining document FBIS4-44278
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'European_Union', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FBIS4-64577
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FT941-13450
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FT941-16995
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Denmark'}
+Document is relevant
+
+Explaining document FBIS3-18733
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'European_Union', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FBIS3-39341
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FBIS3-59001
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Visa_policy_in_the_European_Union'}
+Document is relevant
+
+Explaining document FT944-4056
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'European_Commission'}
+Document is relevant
+
+Explaining document FT932-12074
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Denmark'}
+Document is relevant
+
+Explaining document FT941-12878
+Entities present: {'Schengen_Area', 'Schengen_Agreement'}
+Entities missing: {'Benelux', 'Denmark'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 425 Query: counterfeiting money ***
+Explaining document FBIS3-54773
+Entities present: {'Chechnya', 'Xerox'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS4-26260
+Entities present: {'Anhui', 'Lu_(state)'}
+Entities missing: {'Counterfeit', 'California_State_University,_Long_Beach'}
+Document is relevant
+
+Explaining document LA022289-0114
+Entities present: {'United_States_Secret_Service', 'Irvine,_California'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document LA091590-0091
+Entities present: {'United_States_Secret_Service', 'California_State_University,_Long_Beach'}
+Entities missing: {'Counterfeit', 'Anhui'}
+Document is relevant
+
+Explaining document LA101890-0111
+Entities present: {'United_States_Secret_Service', 'California_State_University,_Long_Beach'}
+Entities missing: {'Counterfeit', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS4-42716
+Entities present: {'Counterfeit', 'Canton_of_Schwyz'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS3-10532
+Entities present: {'Federal_Police_(Brazil)', 'Colombia'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document LA122989-0066
+Entities present: {'Counterfeit', 'United_States_Secret_Service'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS3-58171
+Entities present: {'Fridays'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FT921-12539
+Entities present: {'United_States_Department_of_the_Treasury', 'Middle_East'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FT943-14585
+Entities present: {'United_States_Secret_Service', 'Middle_East'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document LA051690-0048
+Entities present: {'United_States_Secret_Service', 'Immigration_and_Naturalization_Service'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is non-relevant
+
+Explaining document LA022490-0076
+Entities present: {'United_States_Secret_Service', "Los_Angeles_County_Sheriff's_Department"}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS4-46741
+Entities present: {'Middle_East', 'Xerox'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS4-47199
+Entities present: {'Ministry_of_Internal_Affairs_(Russia)', 'Moscow'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS4-68371
+Entities present: {'Ministry_of_Internal_Affairs_(Russia)', 'Sverdlovsk_Oblast'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document LA071389-0111
+Entities present: {'United_States_Secret_Service', 'The_Secret_Service'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+Explaining document FBIS3-45903
+Entities present: {'Zhang_Yuan'}
+Entities missing: {'California_State_University,_Long_Beach', 'Anhui'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 430 Query: killer bee attacks ***
+Explaining document LA060890-0001
+Entities present: {'Africa', 'Brazil'}
+Entities missing: {'Africanized_bee', 'Agriculture'}
+Document is non-relevant
+
+Explaining document LA061589-0055
+Entities present: {'Africa', 'Brazil'}
+Entities missing: {'Africanized_bee', 'Agriculture'}
+Document is relevant
+
+Explaining document LA082889-0051
+Entities present: {'Africa', 'Africanized_bee'}
+Entities missing: {'Agriculture', 'Brownsville,_Texas'}
+Document is relevant
+
+Explaining document FT911-3300
+Entities present: {'Africanized_bee', 'Agriculture'}
+Entities missing: {'Africa', 'Brownsville,_Texas'}
+Document is non-relevant
+
+Explaining document LA020590-0004
+Entities present: {'Africanized_bee', 'Mexico'}
+Entities missing: {'Africa', 'Agriculture'}
+Document is non-relevant
+
+Explaining document LA051089-0024
+Entities present: {'Africanized_bee', 'Agriculture'}
+Entities missing: {'Africa', 'Ceratitis_capitata'}
+Document is non-relevant
+
+Explaining document LA051089-0041
+Entities present: {'Africanized_bee', 'Agriculture'}
+Entities missing: {'Africa', 'Ceratitis_capitata'}
+Document is non-relevant
+
+Explaining document LA060190-0066
+Entities present: {'Africanized_bee', 'Brazil'}
+Entities missing: {'Africa', 'Agriculture'}
+Document is non-relevant
+
+Explaining document LA061689-0067
+Entities present: {'Africanized_bee', 'Imperial_County,_California'}
+Entities missing: {'Africa', 'Agriculture'}
+Document is non-relevant
+
+Explaining document LA031389-0095
+Entities present: {'Brazil,_Indiana', 'Brazil'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is non-relevant
+
+Explaining document LA080389-0111
+Entities present: {'Brazil', 'California'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is relevant
+
+Explaining document FT941-13574
+Entities present: {'Mexico', 'Brussels'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is non-relevant
+
+Explaining document LA061789-0067
+Entities present: {'California'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is non-relevant
+
+Explaining document LA083090-0217
+Entities present: {'Mexico', 'California'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is non-relevant
+
+Explaining document FBIS3-58984
+Entities present: {'Mexico', 'European_Commission'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is non-relevant
+
+Explaining document FT911-4886
+Entities present: {'Mexico'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is relevant
+
+Explaining document LA073089-0143
+Entities present: {'Mexico', 'San_Diego'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is relevant
+
+Explaining document LA121690-0053
+Entities present: {'Mexico'}
+Entities missing: {'Africa', 'Africanized_bee'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 441 Query: lyme disease ***
+Explaining document FT933-7438
+Entities present: {'China', 'Centers_for_Disease_Control_and_Prevention'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is non-relevant
+
+Explaining document LA111390-0102
+Entities present: {'International_Society_of_Blood_Transfusion', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+Explaining document FBIS3-41801
+Entities present: {'AIDES', 'AIDS'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is non-relevant
+
+Explaining document FR940802-1-00013
+Entities present: {'AIDES', 'Occupational_Safety_and_Health_Act'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+Explaining document FBIS3-60487
+Entities present: {'Germany', 'Medical_research'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+Explaining document FR940802-1-00015
+Entities present: {'Medical_research', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+Explaining document FR941107-2-00231
+Entities present: {'Centers_for_Disease_Control_and_Prevention', 'California'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is non-relevant
+
+Explaining document LA081989-0134
+Entities present: {'Barbara_Ehrenreich', 'AIDS'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is non-relevant
+
+Explaining document LA112789-0001
+Entities present: {'Lyme_disease', 'California'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is non-relevant
+
+Explaining document LA073090-0058
+Entities present: {'Allen_Steere', 'Lyme_disease'}
+Entities missing: {'Ixodes_ricinus', 'California'}
+Document is non-relevant
+
+Explaining document LA112690-0027
+Entities present: {'Allen_Steere', 'Lyme_disease'}
+Entities missing: {'Ixodes_ricinus', 'Centers_for_Disease_Control_and_Prevention'}
+Document is relevant
+
+Explaining document LA061389-0087
+Entities present: {'Ixodes_ricinus', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Centers_for_Disease_Control_and_Prevention'}
+Document is relevant
+
+Explaining document LA071989-0117
+Entities present: {'Ixodes_ricinus', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Crimea'}
+Document is relevant
+
+Explaining document LA092690-0153
+Entities present: {'Lyme,_Connecticut', 'Atlanta'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is non-relevant
+
+Explaining document LA092090-0248
+Entities present: {'Lyme_disease', 'California'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+Explaining document FBIS4-67664
+Entities present: {'China', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+Explaining document FBIS4-22994
+Entities present: {'Ixodes_ricinus', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'California'}
+Document is non-relevant
+
+Explaining document FBIS4-45839
+Entities present: {'Lyme,_Connecticut', 'Lyme,_New_York'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+Explaining document LA081989-0064
+Entities present: {'Lyme,_Connecticut', 'Lyme_disease'}
+Entities missing: {'Allen_Steere', 'Ixodes_ricinus'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 444 Query: supercritical fluids ***
+Explaining document FT932-7115
+Entities present: {'Toshiba', 'Alstom'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FBIS3-40501
+Entities present: {'Computational_physics', 'Euler_equations_(fluid_dynamics)'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is non-relevant
+
+Explaining document FBIS4-44730
+Entities present: {'Elf_Aquitaine', 'Biodegradation'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FR940318-0-00170
+Entities present: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Entities missing: {'Computational_physics', 'Euler_equations_(fluid_dynamics)'}
+Document is relevant
+
+Explaining document FR940318-0-00172
+Entities present: {'Cage_Fighting_Championship', 'United_States_Environmental_Protection_Agency'}
+Entities missing: {'Supercritical_fluid', 'Euler_equations_(fluid_dynamics)'}
+Document is relevant
+
+Explaining document FR940318-0-00173
+Entities present: {'Supercritical_fluid', 'Cage_Fighting_Championship'}
+Entities missing: {'Euler_equations_(fluid_dynamics)', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FR940318-0-00174
+Entities present: {'Cage_Fighting_Championship', 'United_States_Environmental_Protection_Agency'}
+Entities missing: {'Supercritical_fluid', 'Euler_equations_(fluid_dynamics)'}
+Document is non-relevant
+
+Explaining document FR940318-0-00213
+Entities present: {'Supercritical_fluid', 'Cage_Fighting_Championship'}
+Entities missing: {'Euler_equations_(fluid_dynamics)', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FT933-14063
+Entities present: {'Toshiba', 'China'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FR940926-1-00035
+Entities present: {'Chlorofluorocarbon', 'United_States_Environmental_Protection_Agency'}
+Entities missing: {'Supercritical_fluid', 'Euler_equations_(fluid_dynamics)'}
+Document is non-relevant
+
+Explaining document FBIS3-42384
+Entities present: {'FIGS', 'Common_Year_(Greyhawk)'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is non-relevant
+
+Explaining document FR940721-2-00028
+Entities present: {'United_States_Department_of_Energy', 'Department_of_Energy'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FR940505-1-00069
+Entities present: {'Dutch_East_India_Company', 'United_States_Environmental_Protection_Agency'}
+Entities missing: {'Supercritical_fluid', 'Euler_equations_(fluid_dynamics)'}
+Document is non-relevant
+
+Explaining document FBIS4-45803
+Entities present: {'Massachusetts_Institute_of_Technology', 'Karlsruhe_Institute_of_Technology'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FR940128-2-00102
+Entities present: {'Policy_Planning_Staff', 'United_States_Environmental_Protection_Agency'}
+Entities missing: {'Supercritical_fluid', 'Euler_equations_(fluid_dynamics)'}
+Document is relevant
+
+Explaining document FBIS4-66450
+Entities present: {'Text'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FT943-4354
+Entities present: {'University_of_St_Andrews'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FBIS4-44741
+Entities present: {'Worcester'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+Explaining document FBIS4-44747
+Entities present: {'Worcester'}
+Entities missing: {'Supercritical_fluid', 'United_States_Environmental_Protection_Agency'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 450 Query: king hussein peace ***
+Explaining document FT924-7491
+Entities present: {'Hussein_of_Jordan', 'Palestine_Liberation_Organization'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is non-relevant
+
+Explaining document FT941-13153
+Entities present: {'Yitzhak_Rabin', 'Hussein_of_Jordan'}
+Entities missing: {'History_of_Israel', 'Israel–Jordan_Treaty_of_Peace'}
+Document is relevant
+
+Explaining document LA081490-0042
+Entities present: {'Hussein_of_Jordan', 'Palestine_Liberation_Organization'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is non-relevant
+
+Explaining document FT924-8277
+Entities present: {'Hussein_of_Jordan', 'Palestine_Liberation_Organization'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is non-relevant
+
+Explaining document FT933-5957
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is relevant
+
+Explaining document FT941-12873
+Entities present: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Entities missing: {'West_Bank', 'Palestine_Liberation_Organization'}
+Document is relevant
+
+Explaining document FT942-4289
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Arab–Israeli_conflict'}
+Document is relevant
+
+Explaining document FT943-12560
+Entities present: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Entities missing: {'Palestinian_people', 'Palestine_Liberation_Organization'}
+Document is relevant
+
+Explaining document FT944-15512
+Entities present: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Entities missing: {'West_Bank', 'Arab–Israeli_conflict'}
+Document is relevant
+
+Explaining document FT944-15625
+Entities present: {'Yitzhak_Rabin', 'Hussein_of_Jordan'}
+Entities missing: {'Israel–Jordan_relations', 'Israel–Jordan_Treaty_of_Peace'}
+Document is relevant
+
+Explaining document LA050590-0115
+Entities present: {'History_of_Israel', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is non-relevant
+
+Explaining document LA091890-0045
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Arab–Israeli_conflict'}
+Document is relevant
+
+Explaining document FT943-12145
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is relevant
+
+Explaining document FT943-13871
+Entities present: {'Yitzhak_Rabin', 'Hussein_of_Jordan'}
+Entities missing: {'Israel–Jordan_relations', 'Israel–Jordan_Treaty_of_Peace'}
+Document is relevant
+
+Explaining document FT943-14084
+Entities present: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Entities missing: {'West_Bank', 'Amman'}
+Document is relevant
+
+Explaining document FT944-13606
+Entities present: {'Israel–Jordan_Treaty_of_Peace', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Amman'}
+Document is relevant
+
+Explaining document FT933-924
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is relevant
+
+Explaining document FT941-10100
+Entities present: {'Israel–Jordan_relations', 'Hussein_of_Jordan'}
+Entities missing: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Document is relevant
+
+Explaining document FT933-748
+Entities present: {'Yitzhak_Rabin', 'Israel–Jordan_Treaty_of_Peace'}
+Entities missing: {'West_Bank', 'Arab–Israeli_conflict'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 649 Query: computer viruses ***
+Explaining document FT911-3918
+Entities present: {'Unix', 'Computer_industry'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FT921-4687
+Entities present: {'Michelangelo_(computer_virus)', 'IBM'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+Document is non-relevant
+
+Explaining document FT921-5043
+Entities present: {'Michelangelo_(computer_virus)', 'IBM'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+Document is relevant
+
+Explaining document FT931-2005
+Entities present: {'Novell_NetWare', 'McAfee'}
+Entities missing: {'McAfee_VirusScan', 'Michelangelo_(computer_virus)'}
+Document is non-relevant
+
+Explaining document FT934-5574
+Entities present: {'Personal_computer', 'Software'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FT942-578
+Entities present: {'Scotland_Yard', 'IBM'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FT943-1214
+Entities present: {'@UK', 'National_Computing_Centre'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FT922-1458
+Entities present: {'Michelangelo_(computer_virus)', 'AIDS'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+Document is relevant
+
+Explaining document LA101389-0050
+Entities present: {'Winn_Schwartau', 'McAfee'}
+Entities missing: {'McAfee_VirusScan', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FBIS4-50440
+Entities present: {'China_Huaneng_Group', "Ministry_of_Public_Security_of_the_People's_Republic_of_China"}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FT921-5724
+Entities present: {'McAfee', 'Michelangelo_(computer_virus)'}
+Entities missing: {'Winn_Schwartau', 'McAfee_VirusScan'}
+Document is relevant
+
+Explaining document LA101189-0094
+Entities present: {'Cleveland', 'IBM'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document LA101089-0139
+Entities present: {'Columbus_Day', 'IBM'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document LA101489-0161
+Entities present: {'Winn_Schwartau', 'IBM'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document LA072189-0145
+Entities present: {'Internet', 'Government_Accountability_Office'}
+Entities missing: {'McAfee', 'Michelangelo_(computer_virus)'}
+Document is non-relevant
+
+Explaining document FT941-13624
+Entities present: {'McAfee', 'McAfee_VirusScan'}
+Entities missing: {'Winn_Schwartau', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FT944-9024
+Entities present: {'McAfee', 'McAfee_VirusScan'}
+Entities missing: {'Winn_Schwartau', 'Michelangelo_(computer_virus)'}
+Document is relevant
+
+Explaining document FT921-4469
+Entities present: {'Intel', 'Michelangelo_(computer_virus)'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+Document is relevant
+
+Explaining document FT921-4867
+Entities present: {'Italian_Renaissance', 'Michelangelo_(computer_virus)'}
+Entities missing: {'McAfee', 'McAfee_VirusScan'}
+Document is relevant
+
+--------------------------------------------------
+*** qid: 663 Query: agent orange exposure ***
+Explaining document FBIS3-46776
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is non-relevant
+
+Explaining document FR940104-2-00080
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is relevant
+
+Explaining document FR940104-2-00086
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is relevant
+
+Explaining document FR940202-0-00093
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is non-relevant
+
+Explaining document FR940203-0-00047
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is relevant
+
+Explaining document FR940203-1-00049
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is relevant
+
+Explaining document FR940203-1-00050
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is relevant
+
+Explaining document FT943-3517
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is relevant
+
+Explaining document LA033090-0070
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Elmo_Zumwalt', 'National_Academy_of_Sciences'}
+Document is relevant
+
+Explaining document LA033189-0145
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is non-relevant
+
+Explaining document LA042990-0046
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'National_Academy_of_Sciences', 'Centers_for_Disease_Control_and_Prevention'}
+Document is relevant
+
+Explaining document LA050190-0034
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_Veterans_of_America', 'Centers_for_Disease_Control_and_Prevention'}
+Document is non-relevant
+
+Explaining document LA050989-0122
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'National_Academy_of_Sciences', 'Centers_for_Disease_Control_and_Prevention'}
+Document is relevant
+
+Explaining document LA051290-0035
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_Veterans_of_America', 'Centers_for_Disease_Control_and_Prevention'}
+Document is non-relevant
+
+Explaining document LA060989-0123
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is relevant
+
+Explaining document LA061189-0163
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_Veterans_of_America', 'Centers_for_Disease_Control_and_Prevention'}
+Document is non-relevant
+
+Explaining document LA081090-0080
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'National_Academy_of_Sciences', 'United_States_Department_of_Veterans_Affairs'}
+Document is relevant
+
+Explaining document LA102190-0157
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_veteran', 'Vietnam_Veterans_of_America'}
+Document is non-relevant
+
+Explaining document LA111689-0041
+Entities present: {'Agent_Orange', 'Vietnam_War'}
+Entities missing: {'Vietnam_Veterans_of_America', 'Centers_for_Disease_Control_and_Prevention'}
+Document is relevant
+
+--------------------------------------------------
